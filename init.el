@@ -44,6 +44,9 @@
 (require 'ahg)
 
 ;; Additional Modes
+(require 'as3-mode)
+(require 'fdb)
+
 (require 'yaml-mode)                                                                                                        
 (add-to-list 'auto-mode-alist '("\\.yml$" . yaml-mode))
 

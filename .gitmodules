@@ -1,3 +1,6 @@
 [submodule "vendor/twitter"]
 	path = vendor/twitter
 	url = git://git.busydoingnothing.co.uk/twitter.git
+[submodule "vendor/as3-mode"]
+	path = vendor/as3-mode
+	url = http://github.com/kcfelix/as3-mode.git
